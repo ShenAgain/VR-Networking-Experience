@@ -109,7 +109,7 @@ ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 *.stackdump
-
+*.utmp
 # -----------------
 # Temporary Editor Files
 # -----------------
